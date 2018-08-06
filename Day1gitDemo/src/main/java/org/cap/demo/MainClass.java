@@ -10,5 +10,7 @@ greet();
 	}
 public static void greet() {
 	System.out.println("Hiii");
+	System.out.println("How are you");
+	System.out.println("Welcome");
 }
 }
